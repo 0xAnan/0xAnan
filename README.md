@@ -15,9 +15,9 @@
 
 <!-- ░░░ STATUS BADGES ░░░ -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=0xAnan&label=recon%20hits&color=cba6f7&style=flat" alt="visitors"/>
-<img src="https://img.shields.io/badge/uid-0(root)-cba6f7?style=flat&labelColor=1e1e2e" alt="root"/>
-<img src="https://img.shields.io/badge/status-available-a6e3a1?style=flat&labelColor=1e1e2e" alt="available"/>
+<img src="https://img.shields.io/badge/uid-0(root)-cba6f7?style=flat&labelColor=181825" alt="root"/>
+<img src="https://img.shields.io/badge/shell-zsh-94e2d5?style=flat&labelColor=181825" alt="shell"/>
+<img src="https://img.shields.io/badge/status-available-a6e3a1?style=flat&labelColor=181825" alt="available"/>
 </p>
 
 </div>
@@ -33,15 +33,10 @@ anan@tensai:~$ cat /etc/operator.dossier
 [+] site ............ https://anan.rocks   # writeups + lab notes
 ```
 
-<!-- ░░░ FOCUS PILLS ░░░ -->
+<!-- ░░░ FOCUS PILLS (self-drawn SVG) ░░░ -->
 <div align="center">
 
-![Web Security](https://img.shields.io/badge/Web_Security-cba6f7?style=flat&labelColor=1e1e2e)
-![Web3 Security](https://img.shields.io/badge/Web3_Security-94e2d5?style=flat&labelColor=1e1e2e)
-![Source-Code Review](https://img.shields.io/badge/Source--Code_Review-cba6f7?style=flat&labelColor=1e1e2e)
-![Red Teaming](https://img.shields.io/badge/Red_Teaming-94e2d5?style=flat&labelColor=1e1e2e)
-![Active Directory](https://img.shields.io/badge/Active_Directory-cba6f7?style=flat&labelColor=1e1e2e)
-![Mobile Security](https://img.shields.io/badge/Mobile_Security-94e2d5?style=flat&labelColor=1e1e2e)
+<img src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
 <br/>
 
@@ -51,11 +46,11 @@ anan@tensai:~$ cat /etc/operator.dossier
 <br/>
 
 <!-- ░░░ CONNECT ░░░ -->
-<a href="https://x.com/0xAnan_"><img src="https://img.shields.io/badge/@0xAnan__-1e1e2e?style=flat&logo=x&logoColor=cba6f7" alt="x"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/youssef-anan"><img src="https://img.shields.io/badge/Youssef_Anan-1e1e2e?style=flat&logo=linkedin&logoColor=94e2d5" alt="linkedin"/></a>&nbsp;
-<a href="https://app.hackthebox.com/users"><img src="https://img.shields.io/badge/HackTheBox-1e1e2e?style=flat&logo=hackthebox&logoColor=cba6f7" alt="htb"/></a>&nbsp;
-<a href="https://discord.com/users/0xanan"><img src="https://img.shields.io/badge/0xanan-1e1e2e?style=flat&logo=discord&logoColor=94e2d5" alt="discord"/></a>&nbsp;
-<a href="mailto:youssef.anan01@gmail.com"><img src="https://img.shields.io/badge/Contact-1e1e2e?style=flat&logo=maildotru&logoColor=cba6f7" alt="email"/></a>
+<a href="https://x.com/0xAnan_"><img src="https://img.shields.io/badge/@0xAnan__-181825?style=flat&logo=x&logoColor=cba6f7&labelColor=181825" alt="x"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/youssef-anan"><img src="https://img.shields.io/badge/Youssef_Anan-181825?style=flat&logo=linkedin&logoColor=cba6f7&labelColor=181825" alt="linkedin"/></a>&nbsp;
+<a href="https://app.hackthebox.com/users"><img src="https://img.shields.io/badge/HackTheBox-181825?style=flat&logo=hackthebox&logoColor=cba6f7&labelColor=181825" alt="htb"/></a>&nbsp;
+<a href="https://discord.com/users/0xanan"><img src="https://img.shields.io/badge/0xanan-181825?style=flat&logo=discord&logoColor=cba6f7&labelColor=181825" alt="discord"/></a>&nbsp;
+<a href="mailto:youssef.anan01@gmail.com"><img src="https://img.shields.io/badge/Contact-181825?style=flat&logo=maildotru&logoColor=cba6f7&labelColor=181825" alt="email"/></a>
 
 <br/><br/>
 

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="92" viewBox="0 0 480 92" fill="none" role="img" aria-label="Focus: Web Security, Web3 Security, Source-Code Review, Red Teaming, Active Directory, Mobile Security">
+  <style>
+    .pill { fill: #232334; stroke: #45415a; stroke-width: 1; }
+    .txt  { fill: #cdd6f4; font-family: ui-monospace, "SF Mono", "IBM Plex Mono", Menlo, monospace; font-size: 13px; }
+    .m    { fill: #cba6f7; }
+    .t    { fill: #94e2d5; }
+  </style>
+
+  <!-- row 1 -->
+  <rect class="pill" x="7.5"   y="4"  width="129" height="34" rx="9"/>
+  <circle class="m" cx="19.5"  cy="21" r="3"/>
+  <text class="txt" x="29.5"  y="25.5">Web Security</text>
+
+  <rect class="pill" x="148.5" y="4"  width="137" height="34" rx="9"/>
+  <circle class="t" cx="160.5" cy="21" r="3"/>
+  <text class="txt" x="170.5" y="25.5">Web3 Security</text>
+
+  <rect class="pill" x="297.5" y="4"  width="175" height="34" rx="9"/>
+  <circle class="m" cx="309.5" cy="21" r="3"/>
+  <text class="txt" x="319.5" y="25.5">Source-Code Review</text>
+
+  <!-- row 2 -->
+  <rect class="pill" x="11"  y="50" width="122" height="34" rx="9"/>
+  <circle class="t" cx="23"  cy="67" r="3"/>
+  <text class="txt" x="33"  y="71.5">Red Teaming</text>
+
+  <rect class="pill" x="145" y="50" width="160" height="34" rx="9"/>
+  <circle class="m" cx="157" cy="67" r="3"/>
+  <text class="txt" x="167" y="71.5">Active Directory</text>
+
+  <rect class="pill" x="317" y="50" width="152" height="34" rx="9"/>
+  <circle class="t" cx="329" cy="67" r="3"/>
+  <text class="txt" x="339" y="71.5">Mobile Security</text>
+</svg>
