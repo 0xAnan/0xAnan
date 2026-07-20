@@ -36,13 +36,6 @@
 
 <img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
-<!-- ░░░ LIVE ░░░ -->
-<br/>
-
-<sub><code>// recent ops</code></sub>
-
-<img width="72%" src="./assets/console.svg" alt="live attack console: recon, exploit, root shell"/>
-
 <!-- ░░░ CONNECT ░░░ -->
 <br/>
 
