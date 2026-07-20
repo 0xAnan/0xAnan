@@ -27,7 +27,7 @@
 <!-- ░░░ IDENTITY ░░░ -->
 <sub><code>// operator dossier</code></sub>
 
-<img width="72%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/></a>
 
 <!-- ░░░ FOCUS ░░░ -->
 <br/>
