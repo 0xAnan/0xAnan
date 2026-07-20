@@ -36,6 +36,13 @@
 
 <img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
+<!-- ░░░ BUILDING ░░░ -->
+<br/>
+
+<sub><code>// building</code></sub>
+
+<a href="https://github.com/chainvet/chainvet"><img width="72%" src="./assets/chainvet.svg" alt="Chainvet — Founder & Maintainer. Hybrid Solidity smart-contract security analyzer, written in Rust. github.com/chainvet"/></a>
+
 <!-- ░░░ CONNECT ░░░ -->
 <br/>
 
