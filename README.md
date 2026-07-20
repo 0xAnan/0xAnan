@@ -48,7 +48,11 @@
 
 <sub><code>// connect</code></sub>
 
-<img width="72%" src="./assets/socials.svg" alt="Connect: X @0xAnan_ · LinkedIn Youssef Anan · HackTheBox 0xAnan · Discord 0xanan · Contact"/>
+<a href="https://x.com/0xAnan_"><img height="34" src="./assets/social/x.svg" alt="X @0xAnan_"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/youssef-anan"><img height="34" src="./assets/social/linkedin.svg" alt="LinkedIn Youssef Anan"/></a>&nbsp;
+<a href="https://app.hackthebox.com/users"><img height="34" src="./assets/social/htb.svg" alt="HackTheBox 0xAnan"/></a>&nbsp;
+<a href="https://discord.com/users/0xanan"><img height="34" src="./assets/social/discord.svg" alt="Discord 0xanan"/></a>&nbsp;
+<a href="mailto:youssef.anan01@gmail.com"><img height="34" src="./assets/social/mail.svg" alt="Contact"/></a>
 
 <br/>
 
