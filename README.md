@@ -39,12 +39,8 @@
 
 <br/><br/>
 
-<!-- ░░░ CONNECT ░░░ -->
-<a href="https://x.com/0xAnan_"><img src="https://img.shields.io/badge/@0xAnan__-181825?style=flat&logo=x&logoColor=cba6f7&labelColor=181825" alt="x"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/youssef-anan"><img src="https://img.shields.io/badge/Youssef_Anan-181825?style=flat&logo=linkedin&logoColor=cba6f7&labelColor=181825" alt="linkedin"/></a>&nbsp;
-<a href="https://app.hackthebox.com/users"><img src="https://img.shields.io/badge/HackTheBox-181825?style=flat&logo=hackthebox&logoColor=cba6f7&labelColor=181825" alt="htb"/></a>&nbsp;
-<a href="https://discord.com/users/0xanan"><img src="https://img.shields.io/badge/0xanan-181825?style=flat&logo=discord&logoColor=cba6f7&labelColor=181825" alt="discord"/></a>&nbsp;
-<a href="mailto:youssef.anan01@gmail.com"><img src="https://img.shields.io/badge/Contact-181825?style=flat&logo=maildotru&logoColor=cba6f7&labelColor=181825" alt="email"/></a>
+<!-- ░░░ CONNECT (self-drawn SVG, non-clickable) ░░░ -->
+<img width="70%" src="./assets/socials.svg" alt="Connect: X @0xAnan_ · LinkedIn Youssef Anan · HackTheBox 0xAnan · Discord 0xanan · Contact"/>
 
 <br/><br/>
 
