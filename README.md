@@ -22,20 +22,14 @@
 
 </div>
 
-<!-- ░░░ DOSSIER ░░░ -->
-```console
-anan@tensai:~$ cat /etc/operator.dossier
-[+] handle .......... 0xAnan  (Youssef Anan)
-[+] role ............ Offensive Security Researcher
-[+] location ........ Cairo, EG
-[+] groups .......... root,sudo,wheel
-[+] currently ....... breaking things, reading source, staying on CTFs too late
-[+] site ............ https://anan.rocks   # writeups + lab notes
-```
-
-<!-- ░░░ FOCUS PILLS (self-drawn SVG) ░░░ -->
 <div align="center">
 
+<!-- ░░░ DOSSIER (self-drawn SVG terminal) ░░░ -->
+<img width="70%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/>
+
+<br/><br/>
+
+<!-- ░░░ FOCUS PILLS (self-drawn SVG) ░░░ -->
 <img src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
 <br/><br/>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" fill="none" xml:space="preserve" role="img" aria-label="operator dossier: handle 0xAnan, offensive security researcher, Cairo EG">
+  <style>
+    .bg  { fill:#181825; stroke:#313244; stroke-width:1; }
+    .bar { fill:#232334; }
+    .t   { font-family: ui-monospace,"SF Mono","IBM Plex Mono",Menlo,monospace; font-size:15px; }
+    .ttl { font-family: ui-monospace,"SF Mono",Menlo,monospace; font-size:12px; fill:#a6adc8; }
+    .txt { fill:#cdd6f4; }
+    .dim { fill:#6c7086; }
+    .mau { fill:#cba6f7; }
+    .grn { fill:#a6e3a1; }
+    .cur { animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink {0%,50%{opacity:1} 51%,100%{opacity:0}}
+  </style>
+
+  <rect class="bg"  x="0.5" y="0.5" width="759" height="249" rx="14"/>
+  <path class="bar" d="M0 14 a14 14 0 0 1 14 -14 h732 a14 14 0 0 1 14 14 v22 h-760 z"/>
+  <circle cx="24" cy="18" r="5" fill="#f38ba8"/>
+  <circle cx="44" cy="18" r="5" fill="#f9e2af"/>
+  <circle cx="64" cy="18" r="5" fill="#a6e3a1"/>
+  <text class="ttl" x="92" y="22">anan@tensai: ~/whoami</text>
+  <text class="ttl" x="724" y="22" fill="#cba6f7" font-size="14">攻</text>
+
+  <text class="t" x="24" y="74"><tspan class="grn">[+] </tspan><tspan class="mau">handle</tspan><tspan class="dim"> .......... </tspan><tspan class="txt">0xAnan  (Youssef Anan)</tspan></text>
+  <text class="t" x="24" y="101"><tspan class="grn">[+] </tspan><tspan class="mau">role</tspan><tspan class="dim"> ............ </tspan><tspan class="txt">Offensive Security Researcher</tspan></text>
+  <text class="t" x="24" y="128"><tspan class="grn">[+] </tspan><tspan class="mau">location</tspan><tspan class="dim"> ........ </tspan><tspan class="txt">Cairo, EG</tspan></text>
+  <text class="t" x="24" y="155"><tspan class="grn">[+] </tspan><tspan class="mau">groups</tspan><tspan class="dim"> .......... </tspan><tspan class="txt">root,sudo,wheel</tspan></text>
+  <text class="t" x="24" y="182"><tspan class="grn">[+] </tspan><tspan class="mau">currently</tspan><tspan class="dim"> ....... </tspan><tspan class="txt">breaking things, reading source, late CTFs</tspan></text>
+  <text class="t" x="24" y="209"><tspan class="grn">[+] </tspan><tspan class="mau">site</tspan><tspan class="dim"> ............ </tspan><tspan class="txt">https://anan.rocks</tspan></text>
+  <rect class="cur" x="391" y="198" width="9" height="14" fill="#cba6f7"/>
+</svg>
