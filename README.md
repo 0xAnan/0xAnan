@@ -24,25 +24,33 @@
 
 <div align="center">
 
-<!-- ░░░ DOSSIER (self-drawn SVG terminal) ░░░ -->
-<img width="70%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/>
+<!-- ░░░ IDENTITY ░░░ -->
+<sub><code>// operator dossier</code></sub>
 
-<br/><br/>
+<img width="72%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/>
 
-<!-- ░░░ FOCUS PILLS (self-drawn SVG) ░░░ -->
-<img src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
+<!-- ░░░ FOCUS ░░░ -->
+<br/>
 
-<br/><br/>
+<sub><code>// focus</code></sub>
 
-<!-- ░░░ ANIMATED ATTACK CONSOLE (self-drawn, loops) ░░░ -->
-<img width="70%" src="./assets/console.svg" alt="live attack console: recon, exploit, root shell"/>
+<img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
-<br/><br/>
+<!-- ░░░ LIVE ░░░ -->
+<br/>
 
-<!-- ░░░ CONNECT (self-drawn SVG, non-clickable) ░░░ -->
-<img width="70%" src="./assets/socials.svg" alt="Connect: X @0xAnan_ · LinkedIn Youssef Anan · HackTheBox 0xAnan · Discord 0xanan · Contact"/>
+<sub><code>// recent ops</code></sub>
 
-<br/><br/>
+<img width="72%" src="./assets/console.svg" alt="live attack console: recon, exploit, root shell"/>
+
+<!-- ░░░ CONNECT ░░░ -->
+<br/>
+
+<sub><code>// connect</code></sub>
+
+<img width="72%" src="./assets/socials.svg" alt="Connect: X @0xAnan_ · LinkedIn Youssef Anan · HackTheBox 0xAnan · Discord 0xanan · Contact"/>
+
+<br/>
 
 <sub><code>0xANAN / 攻</code> · Breaking, learning, documenting</sub>
 
