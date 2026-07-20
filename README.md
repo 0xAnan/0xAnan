@@ -38,12 +38,7 @@ anan@tensai:~$ cat /etc/operator.dossier
 
 <img src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
-<br/>
-
-<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
-<img width="100%" src="https://raw.githubusercontent.com/0xAnan/0xAnan/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
-<br/>
+<br/><br/>
 
 <!-- ░░░ CONNECT ░░░ -->
 <a href="https://x.com/0xAnan_"><img src="https://img.shields.io/badge/@0xAnan__-181825?style=flat&logo=x&logoColor=cba6f7&labelColor=181825" alt="x"/></a>&nbsp;
@@ -55,5 +50,8 @@ anan@tensai:~$ cat /etc/operator.dossier
 <br/><br/>
 
 <sub><code>0xANAN / 攻</code> · Breaking, learning, documenting</sub>
+
+<!-- ░░░ ANIMATED FOOTER WAVE ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:181825,100:1e1e2e&height=120&section=footer&animation=fadeIn" alt=""/>
 
 </div>
