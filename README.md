@@ -40,6 +40,11 @@ anan@tensai:~$ cat /etc/operator.dossier
 
 <br/><br/>
 
+<!-- ░░░ ANIMATED ATTACK CONSOLE (self-drawn, loops) ░░░ -->
+<img width="70%" src="./assets/console.svg" alt="live attack console: recon, exploit, root shell"/>
+
+<br/><br/>
+
 <!-- ░░░ CONNECT ░░░ -->
 <a href="https://x.com/0xAnan_"><img src="https://img.shields.io/badge/@0xAnan__-181825?style=flat&logo=x&logoColor=cba6f7&labelColor=181825" alt="x"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/youssef-anan"><img src="https://img.shields.io/badge/Youssef_Anan-181825?style=flat&logo=linkedin&logoColor=cba6f7&labelColor=181825" alt="linkedin"/></a>&nbsp;
