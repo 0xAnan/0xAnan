@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ░░░ ANIMATED WAVE BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:cba6f7&height=200&section=header&text=0xAnan%20%2F%20%E6%94%BB&fontColor=cba6f7&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Operator%20%C2%B7%20Cairo%2C%20EG&descAlignY=60&descSize=18&descColor=a6adc8" alt="0xAnan"/>
+<a href="https://anan.rocks"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:cba6f7&height=200&section=header&text=0xAnan%20%2F%20%E6%94%BB&fontColor=cba6f7&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Operator%20%C2%B7%20Cairo%2C%20EG&descAlignY=60&descSize=18&descColor=a6adc8" alt="0xAnan"/></a>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <a href="https://anan.rocks">
@@ -15,9 +15,9 @@
 
 <!-- ░░░ STATUS BADGES ░░░ -->
 <p>
-<img src="https://img.shields.io/badge/uid-0(root)-cba6f7?style=flat&labelColor=181825" alt="root"/>
-<img src="https://img.shields.io/badge/shell-zsh-94e2d5?style=flat&labelColor=181825" alt="shell"/>
-<img src="https://img.shields.io/badge/status-available-a6e3a1?style=flat&labelColor=181825" alt="available"/>
+<a href="https://anan.rocks"><img src="https://img.shields.io/badge/uid-0(root)-cba6f7?style=flat&labelColor=181825" alt="root"/></a>
+<a href="https://anan.rocks"><img src="https://img.shields.io/badge/shell-zsh-94e2d5?style=flat&labelColor=181825" alt="shell"/></a>
+<a href="https://anan.rocks"><img src="https://img.shields.io/badge/status-available-a6e3a1?style=flat&labelColor=181825" alt="available"/></a>
 </p>
 
 </div>
@@ -25,28 +25,28 @@
 <div align="center">
 
 <!-- ░░░ IDENTITY ░░░ -->
-<img width="72%" src="./assets/hdr/dossier.svg" alt="// operator dossier"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/hdr/dossier.svg" alt="// operator dossier"/></a>
 
 <a href="https://anan.rocks"><img width="72%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/></a>
 
 <!-- ░░░ FOCUS ░░░ -->
 <br/>
 
-<img width="72%" src="./assets/hdr/focus.svg" alt="// focus"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/hdr/focus.svg" alt="// focus"/></a>
 
-<img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/></a>
 
 <!-- ░░░ BUILDING ░░░ -->
 <br/>
 
-<img width="72%" src="./assets/hdr/building.svg" alt="// building"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/hdr/building.svg" alt="// building"/></a>
 
 <a href="https://github.com/chainvet/chainvet"><img width="72%" src="./assets/chainvet.svg" alt="Chainvet — Founder & Maintainer. Hybrid Solidity smart-contract security analyzer, written in Rust. github.com/chainvet"/></a>
 
 <!-- ░░░ CONNECT ░░░ -->
 <br/>
 
-<img width="72%" src="./assets/hdr/connect.svg" alt="// connect"/>
+<a href="https://anan.rocks"><img width="72%" src="./assets/hdr/connect.svg" alt="// connect"/></a>
 
 <br/>
 
@@ -61,6 +61,6 @@
 <sub><code>0xANAN / 攻</code> · Breaking, learning, documenting</sub>
 
 <!-- ░░░ ANIMATED FOOTER WAVE ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:181825,100:1e1e2e&height=120&section=footer&animation=fadeIn" alt=""/>
+<a href="https://anan.rocks"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:181825,100:1e1e2e&height=120&section=footer&animation=fadeIn" alt=""/></a>
 
 </div>
