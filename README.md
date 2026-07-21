@@ -25,28 +25,30 @@
 <div align="center">
 
 <!-- ░░░ IDENTITY ░░░ -->
-<sub><code>// operator dossier</code></sub>
+<img width="72%" src="./assets/hdr/dossier.svg" alt="// operator dossier"/>
 
 <a href="https://anan.rocks"><img width="72%" src="./assets/dossier.svg" alt="operator dossier: 0xAnan · Offensive Security Researcher · Cairo, EG"/></a>
 
 <!-- ░░░ FOCUS ░░░ -->
 <br/>
 
-<sub><code>// focus</code></sub>
+<img width="72%" src="./assets/hdr/focus.svg" alt="// focus"/>
 
 <img width="72%" src="./assets/skills.svg" alt="Focus: Web Security · Web3 Security · Source-Code Review · Red Teaming · Active Directory · Mobile Security"/>
 
 <!-- ░░░ BUILDING ░░░ -->
 <br/>
 
-<sub><code>// building</code></sub>
+<img width="72%" src="./assets/hdr/building.svg" alt="// building"/>
 
 <a href="https://github.com/chainvet/chainvet"><img width="72%" src="./assets/chainvet.svg" alt="Chainvet — Founder & Maintainer. Hybrid Solidity smart-contract security analyzer, written in Rust. github.com/chainvet"/></a>
 
 <!-- ░░░ CONNECT ░░░ -->
 <br/>
 
-<sub><code>// connect</code></sub>
+<img width="72%" src="./assets/hdr/connect.svg" alt="// connect"/>
+
+<br/>
 
 <a href="https://x.com/0xAnan_"><img height="34" src="./assets/social/x.svg" alt="X @0xAnan_"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/youssef-anan"><img height="34" src="./assets/social/linkedin.svg" alt="LinkedIn Youssef Anan"/></a>&nbsp;
